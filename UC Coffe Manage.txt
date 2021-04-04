@@ -1,0 +1,24 @@
+Chức năng: 
+- Đặt bàn
+	+ include: kiểm tra bàn
+
+- Tìm món
+
+- Đổi món: 
+	+ include: kiểm tra món 
+
+- Đặt món
+	+ include: chọn món (include kiểm tra món (extend: xử lý món đã hết))
+	+ extend: qua app (extend chọn điểm đến)
+
+- Thanh toán 
+	+ include: in hóa đơn
+	+ extend: qua thẻ
+
+- Thống kê
+
+- CRUD nhân sự
+
+- CRUD thức ăn, nước uống
+
+- CRUD kho
